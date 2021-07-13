@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

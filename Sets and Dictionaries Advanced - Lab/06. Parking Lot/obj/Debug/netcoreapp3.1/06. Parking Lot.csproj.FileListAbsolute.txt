@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.genruntimeconfig.cache

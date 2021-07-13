@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassBoxData/1.0.0": {
+        "dependencies": {
+          "ShoppingSpree": "1.0.0"
+        },
+        "runtime": {
+          "ClassBoxData.dll": {}
+        }
+      },
+      "ShoppingSpree/1.0.0": {
+        "runtime": {
+          "ShoppingSpree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassBoxData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingSpree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

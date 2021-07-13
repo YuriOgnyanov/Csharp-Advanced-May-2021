@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Matrix Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.genruntimeconfig.cache

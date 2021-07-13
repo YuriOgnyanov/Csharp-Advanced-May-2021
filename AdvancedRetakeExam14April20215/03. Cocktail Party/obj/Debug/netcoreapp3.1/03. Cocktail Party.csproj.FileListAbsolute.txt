@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\bin\Debug\netcoreapp3.1\03. Cocktail Party.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\03. Cocktail Party\obj\Debug\netcoreapp3.1\03. Cocktail Party.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\bin\Debug\netcoreapp3.1\01.Warm Winter.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\bin\Debug\netcoreapp3.1\01.Warm Winter.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\bin\Debug\netcoreapp3.1\01.Warm Winter.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\bin\Debug\netcoreapp3.1\01.Warm Winter.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\bin\Debug\netcoreapp3.1\01.Warm Winter.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\bin\Debug\netcoreapp3.1\01.Warm Winter.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\obj\Debug\netcoreapp3.1\01.Warm Winter.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\obj\Debug\netcoreapp3.1\01.Warm Winter.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\obj\Debug\netcoreapp3.1\01.Warm Winter.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\obj\Debug\netcoreapp3.1\01.Warm Winter.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\obj\Debug\netcoreapp3.1\01.Warm Winter.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\obj\Debug\netcoreapp3.1\01.Warm Winter.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\AdvancedRetakeExam14April20215\01.Warm Winter\obj\Debug\netcoreapp3.1\01.Warm Winter.genruntimeconfig.cache

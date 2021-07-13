@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Advanced\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Warm Winter", "01.Warm Winter\01.Warm Winter.csproj", "{036AC810-0F3D-43A7-990A-BF96102CFCE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Cocktail Party", "03. Cocktail Party\03. Cocktail Party.csproj", "{DEF16EB3-6F35-4C75-803E-E28A0A9D4C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036AC810-0F3D-43A7-990A-BF96102CFCE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036AC810-0F3D-43A7-990A-BF96102CFCE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036AC810-0F3D-43A7-990A-BF96102CFCE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036AC810-0F3D-43A7-990A-BF96102CFCE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF16EB3-6F35-4C75-803E-E28A0A9D4C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF16EB3-6F35-4C75-803E-E28A0A9D4C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF16EB3-6F35-4C75-803E-E28A0A9D4C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF16EB3-6F35-4C75-803E-E28A0A9D4C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1AD8BB1-DEE2-422B-A699-23CC69A5F6A2}
+	EndGlobalSection
+EndGlobal
